@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at the University of Florida E-Learning, Technology, and Communications team as an App Developer.
-- 🌱 I’m currently learning React (Do you ever really *know* React?)
+- 🔭 I’m currently working at the University of South Florida Foundation as a Full Stack Developer.
+- 🌱 I'm currently learning Swift and Go, and having tons of fun doing so!
 - 👯 I’m looking to collaborate on just about anything that's interesting!
 - 💬 Ask me about my work availability.
 - 📫 How to reach me: @clark_brandonw on Twitter, or through my LinkedIn.
