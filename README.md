@@ -7,5 +7,3 @@
 - 📫 How to reach me: @clark_brandonw on Twitter, or through my LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Knacky skills... My current obsession is Cardistry, the art of flourishing playing cards. 
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
