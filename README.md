@@ -5,5 +5,4 @@
 - 👯 I’m looking to collaborate on just about anything that's interesting!
 - 💬 Ask me about my work availability.
 - 📫 How to reach me: @clark_brandonw on Twitter, or through my LinkedIn.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Knacky skills... My current obsession is Cardistry, the art of flourishing playing cards. 
